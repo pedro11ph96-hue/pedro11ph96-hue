@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
-🇧🇷 Brasília, DF — Brasil
+Brasília, DF — Brasil
 
 Estou construindo minha carreira na área de tecnologia, desenvolvendo conhecimentos em programação, banco de dados e análise de dados.
 
