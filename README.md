@@ -17,7 +17,7 @@ Tenho interesse em tecnologia, resolução de problemas, segurança da informaç
   <a href="https://linkedin.com/in/pedrohenriquue">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="[https://github.com/SEU_USUARIO](https://github.com/pedro11ph96-hue)">
     <img src="https://img.shields.io/badge/GitHub-Meus_Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
